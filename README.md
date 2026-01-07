@@ -1,6 +1,0 @@
-Farbpalette
-
-Rot
-Grün
-Blau
-
