@@ -1,11 +1,6 @@
-# Headline 1
-## H2
-### H3
+Farbpalette
 
-***Das** ist ein Text*.
-
-- Topic
-- Topic
-- Topic
-- Topic
+Rot
+Grün
+Blau
 
